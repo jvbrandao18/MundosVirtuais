@@ -7,3 +7,4 @@ O objetivo é conter todas as atividades formativas realizadas durante o semestr
 
 # TDE - Post Processing
 Atividade realizada em dupla com Gustavo Rodrigues Guimarães.
+Pasta "Assets" com os arquivos seguindo a descrição da atividade.
